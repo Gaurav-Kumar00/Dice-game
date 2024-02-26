@@ -41,3 +41,12 @@ footer {
 }
 
 
+/* Media query */
+
+@media (max-width: 768px) {
+  body {
+    text-align: center;
+  }
+}
+
+
