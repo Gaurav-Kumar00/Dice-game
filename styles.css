@@ -44,7 +44,7 @@ footer {
 /* Media query */
 
 @media (max-width: 768px) {
-  body {
+  img {
     text-align: center;
   }
 }
